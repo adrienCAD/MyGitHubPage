@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Console Output</title>
+</head>
+<body>
+    <h1>Console Output</h1>
+    <pre id="console-output"></pre>
+
+    <script>
+        // The URL of your console output file, e.g., "console_output.txt"
+        const consoleOutputUrl = "console_output.txt";
+
+        async function fetchConsoleOutput() {
+            try {
+                const response = await fetch(consoleOutputUrl);
+                const text = await response.text();
+                document.getElementById("console-output").innerText = text;
+            } catch (error) {
+                console.error("Error fetching console output:", error);
+            }
+        }
+
+        fetchConsoleOutput();
+    </script>
+</body>
+</html>
+
