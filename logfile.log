@@ -287,3 +287,5 @@
 2023-04-16 11:26:25,345 | INFO | Sell order for 0.459512788 ETH/USD at 2096.795373 submitted successfully.
 2023-04-16 11:29:29,218 | INFO | Order execution timed out. Resubmitting the order with an updated price.
 2023-04-16 11:29:29,630 | INFO | Sell order for 0.459512788 ETH/USD at 2093.9999 submitted successfully.
+2023-04-16 11:32:32,467 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-16 11:32:32,859 | INFO | Error submitting SELL order: print_flush() takes 1 positional argument but 2 were given
