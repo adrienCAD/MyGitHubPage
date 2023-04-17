@@ -373,3 +373,8 @@
 2023-04-17 02:27:52,566 | INFO | Sell order for 1.023845647 ETH/USD at 2096.61357 submitted successfully.
 2023-04-17 02:29:26,288 | INFO | Order execution timed out. Resubmitting the order with an updated price.
 2023-04-17 02:29:26,796 | INFO | Sell order for 1.023845647 ETH/USD at 2097.0947180999997 submitted successfully.
+2023-04-17 02:31:00,449 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-17 02:31:00,858 | INFO | Sell order for 1.023845647 ETH/USD at 2095.901832 submitted successfully.
+2023-04-17 02:32:34,346 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-17 02:32:34,741 | INFO | Sell order for 1.023845647 ETH/USD at 2093.1755811999997 submitted successfully.
+2023-04-17 02:33:42,478 | INFO | Order executed successfully | Portfolio Value = 10099.0543 USD
