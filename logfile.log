@@ -504,3 +504,21 @@
 2023-04-19 08:17:35,397 | INFO | ↓↓ Prediction = SELL ↓↓
 2023-04-19 08:17:35,589 | INFO | Sell order for 0.0281 ETHUSD at 1984.0999 submitted successfully.
 2023-04-19 08:18:27,801 | INFO | Order executed successfully | Portfolio Value = 10140.9069 USD
+2023-04-19 11:18:31,022 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-19 11:18:32,317 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-04-19 11:18:32,517 | INFO | Sell order for 0.0188 ETHUSD at 1991.9199 submitted successfully.
+2023-04-19 11:20:06,619 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-19 11:20:07,067 | INFO | Sell order for 0.018799955 ETH/USD at 1991.81834 submitted successfully.
+2023-04-19 11:21:40,547 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-19 11:21:40,988 | INFO | Sell order for 0.018799955 ETH/USD at 1991.4587000000001 submitted successfully.
+2023-04-19 11:23:14,479 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-19 11:23:14,851 | INFO | Sell order for 0.018799955 ETH/USD at 1991.796 submitted successfully.
+2023-04-19 11:24:48,409 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-19 11:24:48,808 | INFO | Sell order for 0.018799955 ETH/USD at 1989.5974825 submitted successfully.
+2023-04-19 11:26:22,567 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-19 11:26:22,939 | INFO | Sell order for 0.018799955 ETH/USD at 1990.6999 submitted successfully.
+2023-04-19 11:27:56,775 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-19 11:27:57,179 | INFO | Sell order for 0.018799955 ETH/USD at 1989.51043 submitted successfully.
+2023-04-19 11:29:30,913 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-19 11:29:31,430 | INFO | Sell order for 0.018799955 ETH/USD at 1989.3839 submitted successfully.
+2023-04-19 11:30:23,491 | INFO | Order executed successfully | Portfolio Value = 10141.1579 USD
