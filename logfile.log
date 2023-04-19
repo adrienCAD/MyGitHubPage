@@ -526,3 +526,6 @@
 2023-04-19 14:30:27,634 | INFO | ↓↓ Prediction = SELL ↓↓
 2023-04-19 14:30:27,822 | INFO | Sell order for 0.0126 ETHUSD at 1985.7999 submitted successfully.
 2023-04-19 14:31:30,821 | INFO | Order executed successfully | Portfolio Value = 10140.9811 USD
+2023-04-19 17:31:32,939 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-19 17:31:34,145 | INFO | ↑↑ Prediction = BUY ↑↑ 
+2023-04-19 17:31:34,333 | INFO | Error submitting Buy order: insufficient balance for USD (requested: 9686.628862167852, available: 9565.57)
