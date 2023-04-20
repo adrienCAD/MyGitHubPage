@@ -529,3 +529,7 @@
 2023-04-19 17:31:32,939 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
 2023-04-19 17:31:34,145 | INFO | ↑↑ Prediction = BUY ↑↑ 
 2023-04-19 17:31:34,333 | INFO | Error submitting Buy order: insufficient balance for USD (requested: 9686.628862167852, available: 9565.57)
+2023-04-19 20:31:36,949 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-19 20:31:38,013 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-04-19 20:31:38,302 | INFO | ETHUSD = 1950.5554 | ETH owned = 0.0256 | Portfolio Value = 10140.0797 USD|
+2023-04-19 20:31:38,302 | INFO | Waiting for right time to buy.
