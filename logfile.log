@@ -1185,3 +1185,15 @@
 2023-04-25 01:48:49,341 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x159e1e3e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
 2023-04-25 02:50:59,560 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x160e4e4d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
 2023-04-25 03:53:10,859 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1636463e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2023-04-25 04:54:21,931 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-25 04:54:23,306 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-04-25 04:54:23,557 | INFO | ETHUSD = 1817.2824 | ETH owned = 0.0198 | Portfolio Value = 9981.1409 USD|
+2023-04-25 04:54:23,557 | INFO | Waiting for right time to buy.
+2023-04-25 05:54:33,861 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-25 05:54:34,887 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-04-25 05:54:35,135 | INFO | ETHUSD = 1818.8330 | ETH owned = 0.0198 | Portfolio Value = 9981.1715 USD|
+2023-04-25 05:54:35,135 | INFO | Waiting for right time to buy.
+2023-04-25 06:54:46,861 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-25 06:54:47,997 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-04-25 06:54:48,250 | INFO | ETHUSD = 1828.5017 | ETH owned = 0.0198 | Portfolio Value = 9981.3626 USD|
+2023-04-25 06:54:48,250 | INFO | Waiting for right time to buy.
