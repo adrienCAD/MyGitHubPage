@@ -1557,3 +1557,23 @@
 2023-04-28 12:57:03,969 | INFO | Order execution timed out. Resubmitting the order with an updated price.
 2023-04-28 12:57:04,442 | INFO | Sell order for 1.718650856 ETH/USD at 1891.796566 submitted successfully.
 2023-04-28 12:58:17,244 | INFO | Order executed successfully | Portfolio Value = 9855.2898 USD
+2023-04-28 13:58:29,176 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-28 13:58:30,352 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-04-28 13:58:30,571 | INFO | Sell order for 0.6393 ETHUSD at 1896.9499 submitted successfully.
+2023-04-28 14:00:04,466 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-28 14:00:04,955 | INFO | Sell order for 0.639296864 ETH/USD at 1897.41545 submitted successfully.
+2023-04-28 14:01:07,610 | INFO | Order executed successfully | Portfolio Value = 9864.7150 USD
+2023-04-28 15:01:17,800 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-28 15:01:19,538 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-04-28 15:01:19,719 | INFO | Sell order for 0.4283 ETHUSD at 1896.0697 submitted successfully.
+2023-04-28 15:02:53,046 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-28 15:02:53,633 | INFO | Sell order for 0.428328899 ETH/USD at 1896.9746091 submitted successfully.
+2023-04-28 15:04:27,115 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-28 15:04:27,533 | INFO | Sell order for 0.428328899 ETH/USD at 1895.2373 submitted successfully.
+2023-04-28 15:04:32,929 | INFO | Order executed successfully | Portfolio Value = 9860.9078 USD
+2023-04-28 16:04:44,811 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-04-28 16:04:45,947 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-04-28 16:04:46,144 | INFO | Sell order for 0.2870 ETHUSD at 1899.0319 submitted successfully.
+2023-04-28 16:06:19,972 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-04-28 16:06:20,397 | INFO | Sell order for 0.286980362 ETH/USD at 1896.9299 submitted successfully.
+2023-04-28 16:06:46,576 | INFO | Order executed successfully | Portfolio Value = 9861.7197 USD
