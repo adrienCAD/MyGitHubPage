@@ -3105,3 +3105,17 @@
 2023-05-07 01:00:01,548 | INFO | ↓↓ Prediction = SELL ↓↓
 2023-05-07 01:00:01,736 | INFO | Sell order for 1.0372 ETHUSD at 1912.8239 submitted successfully.
 2023-05-07 01:00:17,780 | INFO | Order executed successfully | Portfolio Value = 9201.5587 USD
+2023-05-07 02:00:29,890 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-05-07 02:00:31,345 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-05-07 02:00:31,526 | INFO | Sell order for 0.6949 ETHUSD at 1916.9644 submitted successfully.
+2023-05-07 02:01:44,418 | INFO | Order executed successfully | Portfolio Value = 9208.9380 USD
+2023-05-07 03:01:55,079 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-05-07 03:01:56,408 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-05-07 03:01:56,611 | INFO | Sell order for 0.4656 ETHUSD at 1925.3890 submitted successfully.
+2023-05-07 03:03:30,259 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-07 03:03:30,675 | INFO | Sell order for 0.46561002 ETH/USD at 1922.2499 submitted successfully.
+2023-05-07 03:03:51,613 | INFO | Order executed successfully | Portfolio Value = 9215.4955 USD
+2023-05-07 04:04:03,024 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-05-07 04:04:04,404 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-05-07 04:04:04,585 | INFO | Sell order for 0.3120 ETHUSD at 1915.4670 submitted successfully.
+2023-05-07 04:05:02,099 | INFO | Order executed successfully | Portfolio Value = 9208.4834 USD
