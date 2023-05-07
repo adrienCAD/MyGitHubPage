@@ -3143,3 +3143,23 @@
 2023-05-07 07:16:38,029 | INFO | Order execution timed out. Resubmitting the order with an updated price.
 2023-05-07 07:16:38,419 | INFO | Sell order for 0.093825638 ETH/USD at 1925.0524 submitted successfully.
 2023-05-07 07:17:04,608 | INFO | Order executed successfully | Portfolio Value = 9210.5159 USD
+2023-05-07 08:17:16,478 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-05-07 08:17:17,853 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-05-07 08:17:18,041 | INFO | Sell order for 0.0147 ETHUSD at 1933.2601 submitted successfully.
+2023-05-07 08:18:15,320 | INFO | Order executed successfully | Portfolio Value = 9210.8518 USD
+2023-05-07 09:18:26,515 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-05-07 09:18:27,712 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-05-07 09:18:27,899 | INFO | Sell order for 0.0099 ETHUSD at 1932.1837 submitted successfully.
+2023-05-07 09:20:01,577 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-07 09:20:02,127 | INFO | Sell order for 0.009856476 ETH/USD at 1932.1159 submitted successfully.
+2023-05-07 09:21:35,480 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-07 09:21:35,892 | INFO | Sell order for 0.009856476 ETH/USD at 1931.65302052 submitted successfully.
+2023-05-07 09:23:09,131 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-07 09:23:09,492 | INFO | Sell order for 0.009856476 ETH/USD at 1930.857495 submitted successfully.
+2023-05-07 09:24:42,897 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-07 09:24:43,274 | INFO | Sell order for 0.009856476 ETH/USD at 1929.1661 submitted successfully.
+2023-05-07 09:25:40,646 | INFO | Order executed successfully | Portfolio Value = 9210.7096 USD
+2023-05-07 11:22:48,932 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-05-07 11:22:50,410 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-05-07 11:22:50,655 | INFO | ETHUSD = 1936.4981 | ETH owned = 0.0200 | Portfolio Value = 9210.8563 USD|
+2023-05-07 11:22:50,655 | INFO | Waiting for right time to buy.
