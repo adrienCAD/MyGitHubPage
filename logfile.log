@@ -4065,3 +4065,66 @@
 2023-05-17 02:01:42,632 | INFO | Sell order for 1.6228 ETHUSD at 1819.9005 submitted successfully.
 2023-05-17 02:03:16,278 | INFO | Order execution timed out. Resubmitting the order with an updated price.
 2023-05-17 02:03:16,718 | INFO | Sell order for 1.622794604 ETH/USD at 1820.73897638 submitted successfully.
+2023-05-17 02:04:49,813 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:04:50,202 | INFO | Sell order for 1.622794604 ETH/USD at 1820.3954935 submitted successfully.
+2023-05-17 02:06:23,639 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:06:24,202 | INFO | Sell order for 1.622794604 ETH/USD at 1820.166521 submitted successfully.
+2023-05-17 02:07:57,637 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:07:58,077 | INFO | Sell order for 1.622794604 ETH/USD at 1819.9999 submitted successfully.
+2023-05-17 02:09:31,410 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:09:31,837 | INFO | Sell order for 1.622794604 ETH/USD at 1820.1658706 submitted successfully.
+2023-05-17 02:11:05,278 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:11:05,694 | INFO | Sell order for 1.622794604 ETH/USD at 1821.7599 submitted successfully.
+2023-05-17 02:12:39,342 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:12:39,778 | INFO | Sell order for 1.622794604 ETH/USD at 1821.9275643 submitted successfully.
+2023-05-17 02:14:12,870 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:14:13,429 | INFO | Sell order for 1.622794604 ETH/USD at 1822.3444714 submitted successfully.
+2023-05-17 02:15:46,874 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:15:47,278 | INFO | Sell order for 1.622794604 ETH/USD at 1821.8598 submitted successfully.
+2023-05-17 02:17:20,793 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:17:21,197 | INFO | Sell order for 1.622794604 ETH/USD at 1821.18416 submitted successfully.
+2023-05-17 02:18:54,450 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:18:54,875 | INFO | Sell order for 1.622794604 ETH/USD at 1821.0999 submitted successfully.
+2023-05-17 02:20:28,585 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:20:29,025 | INFO | Sell order for 1.622794604 ETH/USD at 1820.8999000000001 submitted successfully.
+2023-05-17 02:22:02,130 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:22:02,597 | INFO | Sell order for 1.622794604 ETH/USD at 1820.6873 submitted successfully.
+2023-05-17 02:23:36,140 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:23:36,570 | INFO | Sell order for 1.622794604 ETH/USD at 1820.8299 submitted successfully.
+2023-05-17 02:25:10,065 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:25:10,456 | INFO | Sell order for 1.622794604 ETH/USD at 1820.57390412 submitted successfully.
+2023-05-17 02:26:43,996 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:26:44,393 | INFO | Sell order for 1.622794604 ETH/USD at 1820.3076 submitted successfully.
+2023-05-17 02:28:17,621 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:28:18,056 | INFO | Sell order for 1.622794604 ETH/USD at 1820.3599 submitted successfully.
+2023-05-17 02:29:51,663 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:29:52,104 | INFO | Sell order for 1.622794604 ETH/USD at 1820.62816611 submitted successfully.
+2023-05-17 02:31:25,718 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:31:26,161 | INFO | Sell order for 1.622794604 ETH/USD at 1820.4062000000001 submitted successfully.
+2023-05-17 02:32:59,557 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:32:59,972 | INFO | Sell order for 1.622794604 ETH/USD at 1820.2999 submitted successfully.
+2023-05-17 02:34:33,489 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:34:33,903 | INFO | Sell order for 1.622794604 ETH/USD at 1819.4699 submitted successfully.
+2023-05-17 02:36:07,394 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:36:07,838 | INFO | Sell order for 1.622794604 ETH/USD at 1818.863531 submitted successfully.
+2023-05-17 02:37:41,245 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:37:41,652 | INFO | Sell order for 1.622794604 ETH/USD at 1819.4699 submitted successfully.
+2023-05-17 02:39:15,082 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:39:15,488 | INFO | Sell order for 1.622794604 ETH/USD at 1819.93859078 submitted successfully.
+2023-05-17 02:40:48,933 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:40:49,341 | INFO | Sell order for 1.622794604 ETH/USD at 1818.2872483 submitted successfully.
+2023-05-17 02:42:22,520 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:42:22,954 | INFO | Sell order for 1.622794604 ETH/USD at 1819.091281 submitted successfully.
+2023-05-17 02:43:56,868 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:43:57,291 | INFO | Sell order for 1.622794604 ETH/USD at 1817.36924 submitted successfully.
+2023-05-17 02:45:31,046 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2023-05-17 02:45:31,465 | INFO | Sell order for 1.622794604 ETH/USD at 1810.0348000000001 submitted successfully.
+2023-05-17 02:45:42,051 | INFO | Order executed successfully | Portfolio Value = 8928.1102 USD
+2023-05-17 03:45:55,164 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-05-17 03:45:56,623 | INFO | ↑↑ Prediction = BUY ↑↑ 
+2023-05-17 03:45:56,827 | INFO | Buy order for 2.6380 ETHUSD at 1808.9442 submitted successfully.
+2023-05-17 03:46:02,281 | INFO | Order executed successfully | Portfolio Value = 8929.3811 USD
+2023-05-17 04:46:15,701 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-05-17 04:46:17,104 | INFO | ↑↑ Prediction = BUY ↑↑ 
+2023-05-17 04:46:17,368 | INFO | ETHUSD = 1807.8110 | ETH owned = 4.9296 | Portfolio Value = 8923.7951 USD|
+2023-05-17 04:46:17,368 | INFO | HODLing ETH.
