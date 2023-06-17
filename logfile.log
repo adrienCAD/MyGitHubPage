@@ -5599,3 +5599,12 @@
 2023-06-17 07:18:22,188 | INFO | ↓↓ Prediction = SELL ↓↓
 2023-06-17 07:18:22,445 | INFO | ETHUSD = 1740.1000 | ETH owned = 0.0104 | Portfolio Value = 8623.2734 USD|
 2023-06-17 07:18:22,445 | INFO | Waiting for right time to buy.
+2023-06-17 08:18:29,657 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-06-17 08:18:31,429 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-06-17 08:18:31,710 | INFO | ETHUSD = 1742.2600 | ETH owned = 0.0104 | Portfolio Value = 8623.2958 USD|
+2023-06-17 08:18:31,710 | INFO | Waiting for right time to buy.
+2023-06-17 09:18:36,021 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-06-17 09:18:37,542 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-06-17 09:18:37,803 | INFO | ETHUSD = 1736.6068 | ETH owned = 0.0104 | Portfolio Value = 8623.2372 USD|
+2023-06-17 09:18:37,803 | INFO | Waiting for right time to buy.
+2023-06-17 10:19:59,460 | INFO | Error getting account info: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
