@@ -6756,3 +6756,12 @@
 2023-06-29 10:24:55,167 | INFO | ↓↓ Prediction = SELL ↓↓
 2023-06-29 10:24:55,418 | INFO | ETHUSD = 1854.6130 | ETH owned = 0.0104 | Portfolio Value = 8624.4588 USD|
 2023-06-29 10:24:55,419 | INFO | Waiting for right time to buy.
+2023-06-29 11:26:08,471 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x114122410>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2023-06-29 12:27:21,253 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-06-29 12:27:23,321 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-06-29 12:27:23,642 | INFO | ETHUSD = 1858.0822 | ETH owned = 0.0104 | Portfolio Value = 8624.4947 USD|
+2023-06-29 12:27:23,642 | INFO | Waiting for right time to buy.
+2023-06-29 13:27:32,646 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-06-29 13:27:34,774 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-06-29 13:27:35,024 | INFO | ETHUSD = 1855.7000 | ETH owned = 0.0104 | Portfolio Value = 8624.4701 USD|
+2023-06-29 13:27:35,025 | INFO | Waiting for right time to buy.
