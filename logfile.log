@@ -8042,3 +8042,9 @@
 2023-07-12 22:46:55,543 | INFO | ↓↓ Prediction = SELL ↓↓
 2023-07-12 22:46:55,796 | INFO | ETHUSD = 1868.5214 | ETH owned = 0.0104 | Portfolio Value = 8624.6028 USD|
 2023-07-12 22:46:55,796 | INFO | Waiting for right time to buy.
+2023-07-12 23:47:09,348 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-07-12 23:47:11,081 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-07-12 23:47:11,719 | INFO | ETHUSD = 1868.0568 | ETH owned = 0.0104 | Portfolio Value = 8624.5980 USD|
+2023-07-12 23:47:11,719 | INFO | Waiting for right time to buy.
+2023-07-13 00:48:24,586 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x154c2e3e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2023-07-13 01:50:36,044 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1599be320>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
