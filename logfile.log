@@ -8566,3 +8566,12 @@
 2023-07-18 13:26:45,708 | INFO | ↓↓ Prediction = SELL ↓↓
 2023-07-18 13:26:45,979 | INFO | ETHUSD = 1901.9000 | ETH owned = 0.0104 | Portfolio Value = 8624.9483 USD|
 2023-07-18 13:26:45,979 | INFO | Waiting for right time to buy.
+2023-07-18 14:26:58,264 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-07-18 14:26:59,988 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-07-18 14:27:00,282 | INFO | ETHUSD = 1900.0998 | ETH owned = 0.0104 | Portfolio Value = 8624.9297 USD|
+2023-07-18 14:27:00,282 | INFO | Waiting for right time to buy.
+2023-07-18 15:27:08,366 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:997)')))
+2023-07-18 16:27:22,436 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-07-18 16:27:23,933 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-07-18 16:27:24,191 | INFO | ETHUSD = 1900.9106 | ETH owned = 0.0104 | Portfolio Value = 8624.9381 USD|
+2023-07-18 16:27:24,191 | INFO | Waiting for right time to buy.
