@@ -8767,3 +8767,15 @@
 2023-07-20 16:39:31,700 | INFO | ↓↓ Prediction = SELL ↓↓
 2023-07-20 16:39:31,939 | INFO | ETHUSD = 1894.9235 | ETH owned = 0.0104 | Portfolio Value = 8624.8761 USD|
 2023-07-20 16:39:31,939 | INFO | Waiting for right time to buy.
+2023-07-20 17:39:46,094 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-07-20 17:39:48,702 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-07-20 17:39:48,962 | INFO | ETHUSD = 1896.4000 | ETH owned = 0.0104 | Portfolio Value = 8624.8914 USD|
+2023-07-20 17:39:48,963 | INFO | Waiting for right time to buy.
+2023-07-20 18:40:02,886 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-07-20 18:40:05,131 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-07-20 18:40:05,399 | INFO | ETHUSD = 1894.0200 | ETH owned = 0.0104 | Portfolio Value = 8624.8668 USD|
+2023-07-20 18:40:05,399 | INFO | Waiting for right time to buy.
+2023-07-20 19:40:14,233 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2023-07-20 19:40:16,180 | INFO | ↓↓ Prediction = SELL ↓↓
+2023-07-20 19:40:16,462 | INFO | ETHUSD = 1890.2102 | ETH owned = 0.0104 | Portfolio Value = 8624.8273 USD|
+2023-07-20 19:40:16,462 | INFO | Waiting for right time to buy.
