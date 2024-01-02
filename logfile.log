@@ -10273,3 +10273,15 @@
 2023-08-20 22:56:32,038 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x15c86a020>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
 2023-08-20 23:56:34,257 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x15f05dff0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
 2023-08-21 00:56:44,182 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x15f6f6080>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2024-01-01 17:55:35,566 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-01 17:55:41,587 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-01-01 17:55:41,856 | INFO | ETHUSD = 2352.7610 | ETH owned = 0.0104 | Portfolio Value = 8629.6156 USD|
+2024-01-01 17:55:41,856 | INFO | Waiting for right time to buy.
+2024-01-01 18:56:08,723 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-01 18:56:12,187 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-01-01 18:56:12,446 | INFO | ETHUSD = 2384.7970 | ETH owned = 0.0104 | Portfolio Value = 8629.9473 USD|
+2024-01-01 18:56:12,446 | INFO | Waiting for right time to buy.
+2024-01-01 19:56:57,659 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-01 19:57:01,041 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-01-01 19:57:01,310 | INFO | ETHUSD = 2378.4600 | ETH owned = 0.0104 | Portfolio Value = 8629.8817 USD|
+2024-01-01 19:57:01,311 | INFO | Waiting for right time to buy.
