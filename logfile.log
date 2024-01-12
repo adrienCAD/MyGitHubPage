@@ -11230,3 +11230,21 @@
 2024-01-11 17:51:50,445 | INFO | ↓↓ Prediction = SELL ↓↓
 2024-01-11 17:51:50,677 | INFO | ETHUSD = 2621.2860 | ETH owned = 0.0104 | Portfolio Value = 8632.3954 USD|
 2024-01-11 17:51:50,678 | INFO | Waiting for right time to buy.
+2024-01-11 18:52:03,549 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-11 18:52:07,113 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-01-11 18:52:07,353 | INFO | ETHUSD = 2608.2040 | ETH owned = 0.0104 | Portfolio Value = 8632.2600 USD|
+2024-01-11 18:52:07,353 | INFO | Waiting for right time to buy.
+2024-01-11 19:52:19,571 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-11 19:52:23,116 | INFO | ↑↑ Prediction = BUY ↑↑ 
+2024-01-11 19:52:23,289 | INFO | Buy order for 3.3017 ETHUSD at 2599.8001 submitted successfully.
+2024-01-11 19:53:57,046 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-11 19:53:57,360 | INFO | Buy order for 3.3017 ETH/USD at 2598.4001000000003 submitted successfully.
+2024-01-11 19:55:30,928 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-11 19:55:31,229 | INFO | Buy order for 3.3017 ETH/USD at 2598.2901 submitted successfully.
+2024-01-11 19:57:04,976 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-11 19:57:05,284 | INFO | Buy order for 3.3017 ETH/USD at 2597.2351000000003 submitted successfully.
+2024-01-11 19:58:38,986 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-11 19:58:39,379 | INFO | Buy order for 3.3017 ETH/USD at 2595.4401000000003 submitted successfully.
+2024-01-11 20:00:12,978 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-11 20:00:13,294 | INFO | 2024-01-11 19:52:19 - Error resubmitting Buy order: insufficient balance for USD (requested: 8570.32, available: 4630.56)
+2024-01-11 20:00:13,352 | INFO | Order canceled.
