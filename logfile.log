@@ -12828,3 +12828,101 @@
 2024-01-27 23:08:38,632 | INFO | ↑↑ Prediction = BUY ↑↑ 
 2024-01-27 23:08:38,872 | INFO | ETHUSD = 2300.3100 | ETH owned = 3.3070 | Portfolio Value = 7612.6685 USD|
 2024-01-27 23:08:38,872 | INFO | HODLing ETH.
+2024-01-28 00:08:49,593 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-28 00:08:54,063 | INFO | ↑↑ Prediction = BUY ↑↑ 
+2024-01-28 00:08:54,355 | INFO | ETHUSD = 2291.7000 | ETH owned = 3.3070 | Portfolio Value = 7584.1953 USD|
+2024-01-28 00:08:54,355 | INFO | HODLing ETH.
+2024-01-28 01:09:06,577 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-28 01:09:10,447 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-01-28 01:09:10,861 | INFO | Sell order for 1.0913 ETHUSD at 2290.4159 submitted successfully.
+2024-01-28 01:10:45,046 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:10:45,399 | INFO | Sell order for 1.091309043 ETH/USD at 2291.0009 submitted successfully.
+2024-01-28 01:12:19,217 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:12:19,542 | INFO | Sell order for 1.091309043 ETH/USD at 2292.0998999999997 submitted successfully.
+2024-01-28 01:13:53,289 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:13:53,613 | INFO | Sell order for 1.091309043 ETH/USD at 2290.8839 submitted successfully.
+2024-01-28 01:15:27,262 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:15:27,643 | INFO | Sell order for 1.091309043 ETH/USD at 2292.1998999999996 submitted successfully.
+2024-01-28 01:17:01,678 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:17:02,070 | INFO | Sell order for 1.091309043 ETH/USD at 2291.3999 submitted successfully.
+2024-01-28 01:18:35,848 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:18:36,172 | INFO | Sell order for 1.091309043 ETH/USD at 2292.7699 submitted successfully.
+2024-01-28 01:20:09,791 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:20:10,109 | INFO | Sell order for 1.091309043 ETH/USD at 2293.2639 submitted successfully.
+2024-01-28 01:21:43,897 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:21:44,232 | INFO | Sell order for 1.091309043 ETH/USD at 2293.4599 submitted successfully.
+2024-01-28 01:23:18,034 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:23:18,362 | INFO | Sell order for 1.091309043 ETH/USD at 2292.7898999999998 submitted successfully.
+2024-01-28 01:24:52,018 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:24:52,362 | INFO | Sell order for 1.091309043 ETH/USD at 2291.4028999999996 submitted successfully.
+2024-01-28 01:26:26,317 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:26:26,637 | INFO | Sell order for 1.091309043 ETH/USD at 2291.3098999999997 submitted successfully.
+2024-01-28 01:28:00,473 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:28:00,796 | INFO | Sell order for 1.091309043 ETH/USD at 2290.7999 submitted successfully.
+2024-01-28 01:29:34,588 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:29:34,907 | INFO | Sell order for 1.091309043 ETH/USD at 2289.1998999999996 submitted successfully.
+2024-01-28 01:31:08,491 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:31:08,809 | INFO | Sell order for 1.091309043 ETH/USD at 2288.7138999999997 submitted successfully.
+2024-01-28 01:32:42,657 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:32:42,981 | INFO | Sell order for 1.091309043 ETH/USD at 2289.0998999999997 submitted successfully.
+2024-01-28 01:34:16,733 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:34:17,072 | INFO | Sell order for 1.091309043 ETH/USD at 2289.7758999999996 submitted successfully.
+2024-01-28 01:35:50,898 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:35:51,252 | INFO | Sell order for 1.091309043 ETH/USD at 2289.2398999999996 submitted successfully.
+2024-01-28 01:37:25,004 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:37:25,321 | INFO | Sell order for 1.091309043 ETH/USD at 2289.6868999999997 submitted successfully.
+2024-01-28 01:38:58,942 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:38:59,257 | INFO | Sell order for 1.091309043 ETH/USD at 2289.6868999999997 submitted successfully.
+2024-01-28 01:40:32,994 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:40:33,329 | INFO | Sell order for 1.091309043 ETH/USD at 2289.2659 submitted successfully.
+2024-01-28 01:42:07,337 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:42:07,658 | INFO | Sell order for 1.091309043 ETH/USD at 2288.7999 submitted successfully.
+2024-01-28 01:43:41,412 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:43:41,720 | INFO | Sell order for 1.091309043 ETH/USD at 2288.2099 submitted successfully.
+2024-01-28 01:45:15,457 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:45:15,773 | INFO | Sell order for 1.091309043 ETH/USD at 2287.4999 submitted successfully.
+2024-01-28 01:46:49,377 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:46:49,688 | INFO | Sell order for 1.091309043 ETH/USD at 2288.2299 submitted successfully.
+2024-01-28 01:48:23,374 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:48:23,693 | INFO | Sell order for 1.091309043 ETH/USD at 2287.5499 submitted successfully.
+2024-01-28 01:49:57,390 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:49:57,696 | INFO | Sell order for 1.091309043 ETH/USD at 2286.5289 submitted successfully.
+2024-01-28 01:51:31,719 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:51:32,041 | INFO | Sell order for 1.091309043 ETH/USD at 2286.3799 submitted successfully.
+2024-01-28 01:53:05,805 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:53:06,124 | INFO | Sell order for 1.091309043 ETH/USD at 2285.3109 submitted successfully.
+2024-01-28 01:54:39,754 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:54:40,124 | INFO | Sell order for 1.091309043 ETH/USD at 2284.9999 submitted successfully.
+2024-01-28 01:56:13,742 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:56:14,204 | INFO | Sell order for 1.091309043 ETH/USD at 2284.9999 submitted successfully.
+2024-01-28 01:57:47,942 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:57:48,261 | INFO | Sell order for 1.091309043 ETH/USD at 2284.9999 submitted successfully.
+2024-01-28 01:59:22,021 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 01:59:22,337 | INFO | Sell order for 1.091309043 ETH/USD at 2283.2898999999998 submitted successfully.
+2024-01-28 02:00:56,098 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:00:56,411 | INFO | Sell order for 1.091309043 ETH/USD at 2284.9999 submitted successfully.
+2024-01-28 02:02:30,249 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:02:30,562 | INFO | Sell order for 1.091309043 ETH/USD at 2283.6378999999997 submitted successfully.
+2024-01-28 02:04:04,177 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:04:04,491 | INFO | Sell order for 1.091309043 ETH/USD at 2281.4438999999998 submitted successfully.
+2024-01-28 02:05:38,231 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:05:38,540 | INFO | Sell order for 1.091309043 ETH/USD at 2281.0119 submitted successfully.
+2024-01-28 02:07:12,167 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:07:12,470 | INFO | Sell order for 1.091309043 ETH/USD at 2280.1038999999996 submitted successfully.
+2024-01-28 02:08:46,370 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:08:47,187 | INFO | Sell order for 1.091309043 ETH/USD at 2280.3498999999997 submitted successfully.
+2024-01-28 02:10:21,086 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:10:21,418 | INFO | Sell order for 1.091309043 ETH/USD at 2280.0289 submitted successfully.
+2024-01-28 02:11:55,289 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:11:55,611 | INFO | Sell order for 1.091309043 ETH/USD at 2280.2499 submitted successfully.
+2024-01-28 02:13:29,577 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:13:29,933 | INFO | Sell order for 1.091309043 ETH/USD at 2281.5998999999997 submitted successfully.
+2024-01-28 02:15:03,687 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:15:04,004 | INFO | Sell order for 1.091309043 ETH/USD at 2282.2439 submitted successfully.
+2024-01-28 02:16:37,762 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:16:38,095 | INFO | Sell order for 1.091309043 ETH/USD at 2283.1728999999996 submitted successfully.
+2024-01-28 02:18:11,694 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:18:12,005 | INFO | Sell order for 1.091309043 ETH/USD at 2284.2549 submitted successfully.
+2024-01-28 02:19:45,783 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 02:19:46,098 | INFO | 2024-01-28 01:09:06 - Error resubmitting Sell order: insufficient balance for ETH (requested: 1.091309043, available: 0.024379015)
+2024-01-28 02:19:46,277 | INFO | Order executed successfully | Portfolio Value = 7553.3507 USD
