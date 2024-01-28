@@ -12926,3 +12926,19 @@
 2024-01-28 02:19:45,783 | INFO | Order execution timed out. Resubmitting the order with an updated price.
 2024-01-28 02:19:46,098 | INFO | 2024-01-28 01:09:06 - Error resubmitting Sell order: insufficient balance for ETH (requested: 1.091309043, available: 0.024379015)
 2024-01-28 02:19:46,277 | INFO | Order executed successfully | Portfolio Value = 7553.3507 USD
+2024-01-28 03:19:58,505 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-28 03:20:03,707 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-01-28 03:20:03,889 | INFO | Sell order for 0.0080 ETHUSD at 2288.4299 submitted successfully.
+2024-01-28 03:21:38,320 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 03:21:38,652 | INFO | Sell order for 0.008045074 ETH/USD at 2288.7999 submitted successfully.
+2024-01-28 03:23:12,436 | INFO | Order execution timed out. Resubmitting the order with an updated price.
+2024-01-28 03:23:12,753 | INFO | Sell order for 0.008045074 ETH/USD at 2290.1710999989996 submitted successfully.
+2024-01-28 03:24:42,046 | INFO | Order executed successfully | Portfolio Value = 7553.4275 USD
+2024-01-28 04:24:52,518 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-28 04:24:55,722 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-01-28 04:24:55,955 | INFO | ETHUSD = 2292.8500 | ETH owned = 0.0163 | Portfolio Value = 7553.4713 USD|
+2024-01-28 04:24:55,956 | INFO | Waiting for right time to buy.
+2024-01-28 05:25:08,085 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-01-28 05:25:11,425 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-01-28 05:25:11,660 | INFO | ETHUSD = 2285.8450 | ETH owned = 0.0163 | Portfolio Value = 7553.3569 USD|
+2024-01-28 05:25:11,660 | INFO | Waiting for right time to buy.
