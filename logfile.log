@@ -15665,3 +15665,15 @@
 2024-05-06 15:33:33,527 | INFO | Waiting for right time to buy.
 2024-05-11 04:26:36,445 | INFO | Error getting account info: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries exceeded with url: /v2/account (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1565a6020>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
 2024-05-15 11:31:34,184 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-05-20 12:01:01,890 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-05-20 12:01:11,387 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-05-20 12:01:11,640 | INFO | ETHUSD = 3131.4800 | ETH owned = 0.0123 | Portfolio Value = 8961.8809 USD|
+2024-05-20 12:01:11,641 | INFO | Waiting for right time to buy.
+2024-05-20 20:29:25,089 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-05-20 20:29:34,792 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-05-20 20:29:35,044 | INFO | ETHUSD = 3658.9100 | ETH owned = 0.0123 | Portfolio Value = 8968.3840 USD|
+2024-05-20 20:29:35,045 | INFO | Waiting for right time to buy.
+2024-05-22 01:03:37,215 | INFO | Alpaca REST API ACTIVE - PAPER-TRADING account #PA3AMQWJBBTI
+2024-05-22 01:03:45,764 | INFO | ↓↓ Prediction = SELL ↓↓
+2024-05-22 01:03:46,075 | INFO | ETHUSD = 3763.3880 | ETH owned = 0.0123 | Portfolio Value = 8969.6722 USD|
+2024-05-22 01:03:46,075 | INFO | Waiting for right time to buy.
